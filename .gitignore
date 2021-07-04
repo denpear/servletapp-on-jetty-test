@@ -1,0 +1,15 @@
+# Project exclude paths
+/target/
+*.class
+
+/.idea/*
+*.iml
+
+#Package files
+*.jar
+*.war
+*.ear
+
+
+#mobile tools for java
+.mtj.tmp/
