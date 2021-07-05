@@ -1,0 +1,5 @@
+#1 on http://localhost:8080/my-app/my-servlet output:
+
+Method super.service dispatch requests!
+Here is Method doGet
+Out of Method service
